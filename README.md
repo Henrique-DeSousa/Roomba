@@ -1,1 +1,1 @@
-# Roomba Project using Arduino Uno and ZigBee
+# Roomba Project using Arduino Uno and XBee
